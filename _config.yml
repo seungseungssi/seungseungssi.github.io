@@ -16,18 +16,18 @@
 
 ## => Site Settings
 ##############################
-text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+text_skin: "forest" # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: "tomorrow" # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+url     : https://seungseungssi.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : 나는 데이터도 싫고 코딩도 싫다.
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
+lang: en # the language of your site, default as "en"
 timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
@@ -35,11 +35,11 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
-  url       :
-  avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
-  email     :
+  name      : "Lee, Seunghoon" 
+  url       : "https://triceratops.tistory.com"
+  avatar    : https://www.dropbox.com/s/dhpdlvxje17if6q/24_%EC%9D%B4%EA%B2%83%EB%8F%84AI%EC%95%BC.PNG?raw=1 # path or url of avatar image (square)
+  bio       : "HR에서 일하고 있는 데이터사이언티스트 지망생"
+  email     : doragi17879@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -48,8 +48,8 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  linkedin  : "%EC%8A%B9%ED%9B%88-%EC%9D%B4-07944818b" # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  github    : "seungseungssi" # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
@@ -118,11 +118,11 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
-    shortname: # the Disqus shortname for the site
+    shortname: seungseungssi
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
