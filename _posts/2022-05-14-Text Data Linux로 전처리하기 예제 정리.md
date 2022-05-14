@@ -1,6 +1,6 @@
 ---
 title: Text Data Linux로 전처리하기 예제 정리
-tags: TeXt
+tags: text
 ---
 
 
