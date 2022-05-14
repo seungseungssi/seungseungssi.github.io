@@ -26,49 +26,61 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+## Lee, Seung Hoon 
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+![TeXt Theme](https://www.dropbox.com/s/dhpdlvxje17if6q/24_%EC%9D%B4%EA%B2%83%EB%8F%84AI%EC%95%BC.PNG?raw=1)
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
 
-## Features
+* Statistical Analysis
+* Learning Text data Analysis
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
 
-## Skins
+## 학력
+* Bachelor's degrees in Statistics & Financial engineering, Korea University.
 
-TeXt has 6 built-in skins, you can also set up your own skin.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+* Master's degrees in Applied Statistics, Korea University.
+	
+## 논문 
+* [Lee S (2021). Probabilistic reduced K-means cluster analysis, Master's thesis, Department of Statistics, Korea University, Korea(in korean version).](http://www.kss.or.kr/jounalDown.php?IDX=4541)
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
 
-### Highlight Theme
+* [Lee S, Song J (2021). Probabilistic reduced K-means cluster analysis, The Korean Journal of Applied Statistics, 905-922.](https://dcollection.korea.ac.kr/srch/srchDetail/000000251648)
+	
+## Career Path 
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+* Startup Intern at Panamax 
+	* 2019.07 ~ 2019.09 
+	* Wadiz crowd funding project 
+	* [와디즈 상세 페이지](https://www.wadiz.kr/web/campaign/detail/42106)
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+
+* SAS Korea Internship
+	* 2020.01 ~ 2020.03 
+	* Customer Advisory Division, Risk team
+
+
+* Hyundai Motor Company Internship
+	* 2020.06 ~ 2020.08 
+	* CDO, Data Analysis
+
+
+* Samsung Electronics (Device Solutions)
+	* 2021.09 ~ 
+	* People Analytics (statistical data analysis specializing in HR domain)  
+
+## 수상경력
+
+* 행동 데이터 분석 경진대회 
+	* 2020.04
+	* 2 등
+	* (사)한국인공지능협회, Dacon 주관
+	*  [대회 link](https://dacon.io/competitions/official/82407/overview/description)
+
+
+* KCB 데이터를 통한 금융스타일 시각화 경진대회
+	* 2019.07 
+	* 2 등
+	* KCB, Dacon 주관
+	* [대회 & 모델 코드 link](https://dacon.io/competitions/official/235583/codeshare/981)
+	 
