@@ -20,7 +20,7 @@ text_skin: "forest" # "default" (default), "dark", "forest", "ocean", "chocolate
 highlight_theme: "tomorrow" # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://seungseungssi.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 오는 기회를 잡기위한 준비
+title   : 오는 기회를 잡기 위한 준비
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
