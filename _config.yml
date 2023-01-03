@@ -20,7 +20,7 @@ text_skin: "forest" # "default" (default), "dark", "forest", "ocean", "chocolate
 highlight_theme: "tomorrow" # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://seungseungssi.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 나는 데이터도 싫고 코딩도 싫다.
+title   : 오는 기회를 잡기위한 준비
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
@@ -38,7 +38,7 @@ author:
   name      : "Lee, Seunghoon" 
   url       : "https://triceratops.tistory.com"
   avatar    : https://www.dropbox.com/s/dhpdlvxje17if6q/24_%EC%9D%B4%EA%B2%83%EB%8F%84AI%EC%95%BC.PNG?raw=1 # path or url of avatar image (square)
-  bio       : "HR에서 일하고 있는 데이터사이언티스트 지망생"
+  bio       : "데이터사이언티스트를 놓고싶지 않아"
   email     : doragi17879@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
